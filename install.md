@@ -1,4 +1,4 @@
 
 > This is a blockqute
 
-![screenshot](ClouderaSEB_DHL/screenshot.png)
+Cloudera Manager screenshot: [screenshot](screenshot.png)
