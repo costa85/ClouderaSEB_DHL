@@ -5,3 +5,5 @@
 Cloudera Manager screenshot: [screenshot](screenshot.png)
 
 ![screean](screenshot.png)
+
+![screean](png/screenshot.png)
